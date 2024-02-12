@@ -1,1 +1,2 @@
-
+Hi my name is Valid
+Passionate about programming, particularly in iOS development. Seeking a position where I can leverage my foundation in programming languages such as Swift, C, Objective C and my knowledge of database creation and manipulation tools like Microsoft SQL Server and PostgreSQL. Committed to continuous learning, teamwork, and staying updated with the latest industry trends. Interested in networking and IT.
